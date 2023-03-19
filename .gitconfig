@@ -1,0 +1,6 @@
+[user]
+	email = rime.belghali@gmail.com
+	name = Rimbelghali
+[safe]
+	directory = /home/alx-low_level_programming/0x00-hello_world
+	directory = *
