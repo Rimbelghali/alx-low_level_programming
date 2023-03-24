@@ -716,3 +716,49 @@ ls
 cd alx-low_level_programming/
 ls
 sudo git push
+clear
+ls
+cd alx-low_level_programming/
+ls
+cd 0x00-hello_world/
+ls
+sudo add .
+sudo git add .
+sudo git config -l
+cd ..
+sudo mv alx-low_level_programming taskHELLOWORLD
+ls
+sudo git clone https://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@github.com/Rimbelghali/alx-low_level_programming.git
+ls
+cd alx-low_level_programming/
+ls
+sudo rm -r alx-low_level_programming/
+ls
+sudo git add .
+sudo git commit -m "Hello, World"
+sudo git push 
+cp -r /taskHELLOWORLD
+cp -r ../taskHELLOWORLD/0x00-hello_world/ ./
+sudo cp -r ../taskHELLOWORLD/0x00-hello_world/ ./
+git add .
+sudo git commit -m "Hello, World"
+sudo add .
+sudo git add .
+sudo git commit -m "Hello, World"
+sudo git push 
+sudo cp -r ../taskHELLOWORLD/0x01-variables_if_else_while/ ./
+sudo git add .
+sudo git commit -m "Hello, World"
+sudo git push 
+exit
+clear
+sudo git clone https://github.com/Hamicch/alx-low_level_programming.git
+cd alx-low_level_programming/
+sudo git clone https://github.com/Hamicch/alx-low_level_programming.git
+ls
+git config --global user.email rime.belghali@gmail.com
+git config --global user.name Rimbelghali
+sudo git config --global user.email rime.belghali@gmail.com
+sudo git config --global user.name Rimbelghali
+sudo git clone https://github.com/Hamicch/alx-low_level_programming.git
+ls
