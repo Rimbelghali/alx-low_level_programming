@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include <stdio.h>
 /**
-*main - Declare if the random number given is positice, negative or equal to zero
+*main - Determine a random number and if it's positice, negative or equal to zero
 *Return: 0 on success
 */
 int main(void)
