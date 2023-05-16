@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  *main - Declare if the random number given is positice, negative or equal to zero
-(*
+*
  *Return: 0 on success
  */
 int main(void)
