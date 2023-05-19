@@ -1,18 +1,17 @@
 #include <stdio.h>
 /**
-* main - entry block
-* @void: no argument
-* Return: 0
-**/
+ * main - entery point
+ *
+ * Return: 0 on success
+ */
 int main(void)
 {
 int i;
-char x;
-
-for (i = 0; i < 10; i++)
-putchar(i + '0');
-for (x = 'a'; x <= 'f'; x++)
-putchar(x);
+char c;
+for ( i = '0'; i <= '9'; i++)
+putchar(i);
+for ( c = 'a'; c <= 'f'; c++)
+putchar(c);
 putchar('\n');
 return (0);
 }
