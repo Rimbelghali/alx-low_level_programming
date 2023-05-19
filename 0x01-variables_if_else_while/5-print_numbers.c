@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *main – write numbers from 0 to 9
-*
+(*
 *Return: 0 on success
 */
 int main(void)
