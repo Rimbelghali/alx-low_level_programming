@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
-*main – Prints the numbers from 0-9.
-*
-*Return: 0 on success
-*/
+ * main - Prints the numbers from 0-9.
+ *
+ * Return: 0 on success
+ */
 int main(void)
 {
 char x = '0';
