@@ -14,23 +14,27 @@ _putchar(':');
 _putchar(c + '0');
 _putchar(d + '0');
 _putchar('\n');
-d++;
+x++;
 {
 if (d > 9)
 {
 d = 0;
-c++;
+d++;
 }
 if (c > 5)
 {
 c = 0;
-b++;
+c++;
 }
 if (b > 9)
 {
 b = 0;
+b++;
+}
+if (a > 2)
+{
+a = 0;
 a++;
 }
-x++;
 }
 }
